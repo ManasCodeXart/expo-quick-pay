@@ -2,6 +2,14 @@
 
 A gesture-driven quick-pay bottom sheet — snapping avatar carousel, haptic tick slider, and animated send status — built for fintech apps.
 
+<img width="1280" height="720" alt="quick-pay" src="https://github.com/user-attachments/assets/2ddc9bf6-439c-4229-93ed-915e3b4faa0d" />
+
+
+
+
+
+
+
 ## ✨ Features
 
 - 🪙 **Gesture-driven bottom sheet** — pan-to-dismiss with distance *and* velocity thresholds, spring rubber-band back on a cancelled drag
@@ -16,7 +24,7 @@ A gesture-driven quick-pay bottom sheet — snapping avatar carousel, haptic tic
 
 ## ⚙️ Installation
 
-This isn't published as an npm package yet — copy the source directly into your project.
+This isn't published as an npm package — copy the source directly into your project.
 
 ```bash
 git clone https://github.com/ManasCodeXart/expo-quick-pay
@@ -72,7 +80,7 @@ export function Example() {
 
 ## Preview
 
-<!-- Drop your recorded .mov/.mp4 here once it exists — a payments UI demo speaks for itself, keep this section to just the video with no surrounding text. -->
+https://github.com/user-attachments/assets/1ae1c180-f4b6-4967-a5b6-b001bcbff55d
 
 ---
 
