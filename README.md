@@ -24,7 +24,7 @@ A gesture-driven quick-pay bottom sheet — snapping avatar carousel, haptic tic
 
 ## ⚙️ Installation
 
-This isn't published as an npm package — copy the source directly into your project.
+This isn't published as an npm package yet — copy the source directly into your project.
 
 ```bash
 git clone https://github.com/ManasCodeXart/expo-quick-pay
